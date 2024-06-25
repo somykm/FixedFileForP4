@@ -645,13 +645,18 @@ h3,
 h4,
 h5,
 h6,
-p,
 label,
 .btn,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #FFFFFF!important;
+    color: #f2f2f2!important;
+}
+
+p{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #0f0e0e!important;
 }
 
 .container {
@@ -773,7 +778,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #364577;
+    background-color: #020626;
 }
 
 .bgc-atomic-tangerine {

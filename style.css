@@ -272,17 +272,6 @@ a:hover {
     margin-top: 80px;
 }
 
-.row-no-gutters {
-    margin-right: 0;
-    margin-left: 0;
-}
-
-.row.row-no-gutters>[class^="col-"],
-.row.row-no-gutters>[class*=" col-"] {
-    padding-right: 0;
-    padding-left: 0;
-}
-
 #bloc-2-services p {
     font-size: 11px;
 }
@@ -652,7 +641,6 @@ h3,
 h4,
 h5,
 h6,
-label,
 .btn,
 a {
     font-family: "helvetica";
@@ -660,6 +648,11 @@ a {
     color: #f2f2f2 !important;
 }
 
+label{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #575757 !important;
+}
 .nav-menu {
     font-family: "helvetica";
     font-weight: 400;
@@ -715,11 +708,6 @@ p {
     padding: 12px 28px 12px 28px;
     font-size: 1.0em;
     font-weight: 700;
-}
-
-.social {
-    max-width: 400px;
-    margin: auto auto auto auto;
 }
 
 h3 {
@@ -821,11 +809,11 @@ h4 {
     color: #cccccc !important;
 }
 
-.ltc-atomic-tangerine {
-    color: #F3976C !important;
+.ltc-atomic-blue {
+    color: #2a66a2 !important;
 }
 
-.ltc-atomic-tangerine:hover {
+.ltc-atomic-blue:hover {
     color: #c27956 !important;
 }
 

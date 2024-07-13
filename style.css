@@ -26,7 +26,9 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
-
+.col-sm-20 p{
+    font-size: 24px;
+}
 .bloc {
     width: 100%;
     clear: both;

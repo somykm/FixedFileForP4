@@ -264,13 +264,13 @@ a:hover {
     border-color: rgba(0, 0, 0, .3);
 }
 
-.voffset {
+/* .voffset {
     margin-top: 30px;
-}
+} */
 
-.voffset-lg {
+/* .voffset-lg {
     margin-top: 80px;
-}
+} */
 
 #bloc-2-services p {
     font-size: 11px;
@@ -1047,17 +1047,17 @@ h4 {
         display: none;
     }
 
-    .voffset {
+    /* .voffset {
         margin-top: 5px;
-    }
+    } */
 
     .voffset-md {
         margin-top: 20px;
     }
 
-    .voffset-lg {
+    /* .voffset-lg {
         margin-top: 30px;
-    }
+    } */
 
     form {
         padding: 5px;

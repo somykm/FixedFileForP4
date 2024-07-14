@@ -26,13 +26,11 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
-
-.col-sm-20 p {
-    font-weight: 900;
-    font-size: medium;
-    color: #333333 !important;
+.col-sm-20 p{
+    font-weight:900;
+    font-size:medium;
+    color:#333333 !important;
 }
-
 .bloc {
     width: 100%;
     clear: both;
@@ -654,12 +652,11 @@ a {
     color: #f2f2f2 !important;
 }
 
-label {
+label{
     font-family: "helvetica";
     font-weight: 400;
     color: #575757 !important;
 }
-
 .nav-menu {
     font-family: "helvetica";
     font-weight: 400;
@@ -901,10 +898,9 @@ h4 {
         padding-left: constant(safe-area-inset-left);
         padding-right: constant(safe-area-inset-right);
     } */
-    .portfolio-thumb {
+    .portfolio-thumb{
         width: 100%;
     }
-
     .bloc-group,
     .bloc-group .bloc {
         display: block;

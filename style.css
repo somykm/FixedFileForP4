@@ -760,7 +760,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    width: 260px;
+    /* width: 260px; */
 }
 
 .portfolio-row {
